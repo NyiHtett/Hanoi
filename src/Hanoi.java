@@ -12,7 +12,7 @@ public class Hanoi {
 		}
 	}
 	public static void main(String[] args) {
-		new Hanoi(1);
+		new Hanoi(2);
 	}
 
 }
